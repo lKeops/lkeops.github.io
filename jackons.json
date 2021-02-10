@@ -2,13 +2,13 @@
 	{
 		"name": "Balí",
 		"author": "Odd Fellow",
-		"url": "https://github.com/lKeops/lkeops.github.io/blob/main/You-Can-Do-It.png",
-		"thumbnail": "https://github.com/lKeops/lkeops.github.io/blob/main/You-Can-Do-It.png",
+		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/You-Can-Do-It.png",
+		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/You-Can-Do-It.png",
 		"collections": "Landscapes",
 		"downloadable": true,
 		"size": 345066,
 		"dimensions": "2919 x 4030 px",
-		"copyright": "Unsplash"
+		"copyright": "lKeops"
 	},
 	{
 		"name": "Landscape",
