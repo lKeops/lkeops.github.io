@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Balí",
-		"author": "Odd Fellow",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/You-Can-Do-It.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/You-Can-Do-It.png",
-		"collections": "Landscapes",
+		"name": "Brown Circles",
+		"author": "lKeops",
+		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Brown-Circles.png",
+		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Brown-Circles.png",
+		"collections": "Discovery",
 		"downloadable": true,
 		"size": 345066,
-		"dimensions": "2919 x 4030 px",
+		"dimensions": "1080 x 1920 px",
 		"copyright": "lKeops"
 	},
 	{
-		"name": "Landscape",
-		"author": "Alvaro Paredes",
-		"url": "https://images.unsplash.com/photo-1610501151771-870f5f62790c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1610501151771-870f5f62790c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+		"name": "Blue Shapes",
+		"author": "lKeops",
+		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Blue-Shapes.png",
+		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Blue-Shapes.png",
 		"collections": "Scenary",
 		"downloadable": true,
-		"copyright": "Unsplash"
+		"copyright": "lKeops"
 	}
 ]
