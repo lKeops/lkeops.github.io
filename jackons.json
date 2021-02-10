@@ -16,9 +16,7 @@
 		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Triangles.png",
 		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Triangles.png",
 		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
+		"downloadable": false,
 		"copyright": "lKeops"
 	},
 {
