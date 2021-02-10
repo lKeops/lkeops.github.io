@@ -20,7 +20,8 @@
 		"size": 345066,
 		"dimensions": "1080 x 1920 px",
 		"copyright": "lKeops"
-	},{
+	},
+{
 		"name": "Pink Pattern",
 		"author": "lKeops",
 		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pink-Pattern.png",
@@ -141,5 +142,4 @@
 		"dimensions": "1080 x 1920 px",
 		"copyright": "lKeops"
 	},
-
 ]
