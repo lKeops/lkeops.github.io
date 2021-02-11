@@ -1,143 +1,152 @@
 [
 	{
-		"name": "Yellow Hexagon",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Yellow-Hexagon.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Yellow-Hexagon.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Triangles",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Triangles.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Triangles.png",
-		"collections": "Discovery",
-		"downloadable": false,
-		"copyright": "lKeops"
-	},
-{
-		"name": "Pink Pattern",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pink-Pattern.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pink-Pattern.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Patterns",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Patterns.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Patterns.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Pattern V",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-V.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-V.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Pattern IV",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-IV.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-IV.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Pattern II",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-II.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Pattern-II.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Lines Purple",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Lines-Purple.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Lines-Purple.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Hexagon",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Hexagon.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Hexagon.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Flowers",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Flowers.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Flowers.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Emojis",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Emojis.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Emojis.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
-		"name": "Dots",
-		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Dots.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Dots.png",
-		"collections": "Discovery",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
-		"copyright": "lKeops"
-	},
-{
 		"name": "Blue Shapes",
 		"author": "lKeops",
-		"url": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Blue-Shapes.png",
-		"thumbnail": "https://raw.githubusercontent.com/lKeops/lkeops.github.io/main/Blue-Shapes.png",
+		"url": "lkeops.github.io/Wallpapers/Blue-Shapes.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Blue-Shapes.png",
 		"collections": "Discovery",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1080 x 1920 px",
+		"dimensions": "1080 x 1290 px",
 		"copyright": "lKeops"
 	},
+	{
+		"name": "Brown Circles",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Brown-Circles.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Brown-Circles.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Dots",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Dots.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Dots.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Emojis",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Emojis.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Emojis.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Flowers",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Flowers.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Flowers.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Hexagon",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Hexagon.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Hexagon.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Lines Purple",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Lines-Purple.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Lines-Purple.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Pattern II",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Pattern-II.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Pattern-II.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Pattern III",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Pattern-III.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Pattern-III.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Pattern IV",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Pattern-IV.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Pattern-IV.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Pattern V",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Pattern-V.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Pattern-V.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Patterns",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Patterns.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Patterns.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Pink Pattern",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Pink-Pattern.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Pink-Pattern.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Triangles",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Triangles.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Triangles.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	},
+	{
+		"name": "Yellow Hexagon",
+		"author": "lKeops",
+		"url": "lkeops.github.io/Wallpapers/Yellow-Hexagon.png",
+		"thumbnail": "lkeops.github.io/Wallpapers/Yellow-Hexagon.png",
+		"collections": "Discovery",
+		"downloadable": true,
+		"dimensions": "1080 x 1290 px",
+		"copyright": "lKeops"
+	}
 ]
