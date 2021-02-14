@@ -126,6 +126,17 @@
 		"copyright": "lKeops"
 	},
 	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://live.staticflickr.com/65535/50940933191_62a8958e66_z.jpg",
+		"thumbnail": "https://live.staticflickr.com/65535/50940933191_62a8958e66_z.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
 		"name": "Yellow Hexagon",
 		"author": "lKeops",
 		"url": "lkeops.github.io/Wallpapers/Yellow-Hexagon.png",
